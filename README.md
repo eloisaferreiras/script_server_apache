@@ -19,11 +19,13 @@ Foi realizado o seguinte plano das tasks:
 
 <h1>Resultados: </h1>
 
-Configuração do server: 
+Configuração do server
 ---
 Para atualizar o servidor:
+----
 
 apt-get update  
+---
 ![image](https://github.com/eloisaferreiras/script_server_apache/assets/73046034/4b681772-c6fd-49ef-9202-780426768397)
 
 
@@ -32,18 +34,21 @@ instalar o apache 2 ( nesse caso já estava instalado ) então só atualizou
 
 
 Instalação o unzip : 
----
+----
 ![image](https://github.com/eloisaferreiras/script_server_apache/assets/73046034/b96b82c2-26f8-4ee6-b4e9-e7557f4ce8e5)
 
 
-entrar no diretorio tmp e baixar o arquivo no gituhub 
+Entrar no diretorio tmp e baixar o arquivo no gituhub 
+--
 ![image](https://github.com/eloisaferreiras/script_server_apache/assets/73046034/1f47fe1b-1a36-4420-8bf4-9d1b0d10de12)
 
 
-descompactar o arquivo zip 
+Descompactar o arquivo zip 
+--
 ![image](https://github.com/eloisaferreiras/script_server_apache/assets/73046034/b3ae324e-5006-428f-b76c-882e1a32e343)
 
-copiar arquivo do diretório tmp para o diretório padrão apache 
+Copiar arquivo do diretório tmp para o diretório padrão apache 
+--
 ![image](https://github.com/eloisaferreiras/script_server_apache/assets/73046034/d29a7f77-50d1-4e8c-bfea-63a970ebe236)
 
   
